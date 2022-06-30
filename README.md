@@ -1,3 +1,3 @@
 # DIGHUM-101-Individual-Project
 
-![My Image](./Img/aiVsHuman.jpeg)
+![httpswww.linkedin.compulsedifferences-between-artificial-intelligence-vs-human-gangesh-thakur](./Img/aiVsHuman.jpeg)
