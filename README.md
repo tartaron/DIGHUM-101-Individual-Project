@@ -2,9 +2,11 @@
 
 <h1 align="center">
     Title
-    <h1/>
+<h1/>
 
-![httpswww.linkedin.compulsedifferences-between-artificial-intelligence-vs-human-gangesh-thakur](./Img/aiVsHuman.jpeg)
- 
+<p align="center">
+  <img src="./Img/aiVsHuman.jpeg" />
+</p>
+    
 ## Abstarct
     honolulu
