@@ -5,3 +5,6 @@
     <h1/>
 
 ![httpswww.linkedin.compulsedifferences-between-artificial-intelligence-vs-human-gangesh-thakur](./Img/aiVsHuman.jpeg)
+ 
+## Abstarct
+    honolulu
