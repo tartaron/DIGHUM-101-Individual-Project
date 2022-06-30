@@ -12,7 +12,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;AI has made tremendous progress so far, and it is now believed that it may gradually surpass human cognition. However, can such powerful AIs surpass humans in semantic aspects other than the point of computation? To find an intuitive answer about this question, I decided to look at the book reports written by humans and the book reports written by AI.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;The book used in the experiment was Anna Karenina, and human book reports were collected from several blogs. Two AI models, GPT-3 and BERT, were adopted for use in the experiment. GPT-3 was used to generate the book report, and BERT was used to summarize the book report.<br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;The methods used for comparative analysis was:
 * Based on GPT-3 and the frequency of words mainly used by humans, we estimated which word each focused on.
 * The range of thinking ability on one topic was estimated by comparing the diversity of words used by people with GPT-3.
