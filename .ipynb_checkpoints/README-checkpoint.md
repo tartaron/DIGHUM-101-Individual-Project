@@ -1,3 +1,3 @@
 # DIGHUM-101-Individual-Project
 
-![My Image](aiVsHuman.jpeg)
+![My Image](./Img/aiVsHuman.jpeg)
