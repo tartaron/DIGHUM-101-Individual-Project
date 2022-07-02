@@ -23,5 +23,4 @@
 It might be possible if AI use extremely refined and well-targeted data.Before the experiment, I disagreed with Dr. Nan Z Da's opinion, but after the experiment I've come to agree with her.
 
     
-    
-    ![Headline Sentiment](./Img/aiVsHuman.jpeg)
+![Headline Sentiment](./Img/aiVsHuman.jpeg)
