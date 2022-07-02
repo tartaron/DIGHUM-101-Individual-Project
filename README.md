@@ -1,5 +1,5 @@
 # DIGHUM-101-Individual-Project
-
+[Headline Sentiment](./Img/aiVsHuman.jpeg)
 <h1 align="center">
     Title: Can AI appreciate books like humans?
 <h1/>
