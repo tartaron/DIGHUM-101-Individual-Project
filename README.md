@@ -5,6 +5,7 @@
 
 <p align="center">
   <img src="./Img/aiVsHuman.jpeg" />
+    header img
 </p>
     
 ## Abstarct:
@@ -21,6 +22,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;However, after the experiment, I became clear about the limitations of AI. AI is very competent in computational power and shows that it overwhelms human's computational power, but it was not enough to produce semantic things beyond the computation. When AI was provided data under the same conditions as humans, it returned unintended responses with very high probability. Sometimes, AI responds in a way people can understand, but that doesn't fit the situation, and has weird reactions that are completely off-topic. AI also repeated the same sentences over and over.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;I speculate that these problems may be problems with the quantitative methods that are currently mainstream in AI models. 
 It might be possible if AI use extremely refined and well-targeted data.Before the experiment, I disagreed with Dr. Nan Z Da's opinion, but after the experiment I've come to agree with her.
-
-    
-![Headline Sentiment](./Img/aiVsHuman.jpeg)
