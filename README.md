@@ -4,8 +4,7 @@
 <h1/>
 
 <p align="center">
-  <img src="./Img/aiVsHuman.jpeg" />
-    header img
+  <img src="./Img/aiVsHuman.jpeg" /> <br>
 </p>
     
 ## Abstarct:
